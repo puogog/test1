@@ -4,6 +4,6 @@ Creating a new branch is quick AND simple.
 
 ``` c
 int main() {
-	return 0
+	return 0;
 }
 ```
